@@ -1,5 +1,5 @@
-	<div class="clear"></div>
-	<footer class="mdl-mega-footer">
+<div class="clear"></div>
+<footer class="mdl-mega-footer">
     <div class="mdl-mega-footer__middle-section">
         <div class="container">
         <div class="mdl-mega-footer__drop-down-section">
